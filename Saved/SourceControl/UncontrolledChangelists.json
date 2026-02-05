@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Epic Games/5.6/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/LVL_Wasteland.umap",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyPlayerController.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/UI/UI_Strategy.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/UI/UI_PlayerTurn.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyGameMode.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyHUD.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/LVL_Strategy.umap",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/M_DitherStrategy.uasset",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/LVL_Strategy_WP.umap",
+				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyUnit.uasset",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/LVL_Wasteland.umap",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_MapNode.uasset",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyPlayerController.uasset",
@@ -12,10 +23,7 @@
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/Enumerators/UnitType.uasset",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/Enumerators/Factions.uasset",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyHUD.uasset",
-				"C:/Epic Games/5.6/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BPI_Strategy.uasset",
-				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/LVL_Wasteland.umap",
-				"C:/Users/4025790/Documents/Unreal Projects/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyPlayerController.uasset",
 				"C:/Users/4025790/Documents/Unreal Projects/MyProject2/Content/Variant_Strategy/LVL_Wasteland.umap"
 			]
 		}
