@@ -2336,3 +2336,128 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.06-16.58.26:735][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.02.06-16.58.26:739][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
 [2026.02.06-16.58.27:048][261]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.02.06-17.00.12:272][363]Cmd: SELECT NONE
+[2026.02.06-17.00.13:397][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-17.00.13:406][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-17.00.13:406][435]LogPlayLevel: Creating play world package: /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland
+[2026.02.06-17.00.13:414][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008574s)
+[2026.02.06-17.00.13:415][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Strategy/LVL_Wasteland.LVL_Wasteland to /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland.LVL_Wasteland (0.008624s)
+[2026.02.06-17.00.13:458][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.06-17.00.13:464][435]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_Wasteland
+[2026.02.06-17.00.13:466][435]LogPlayLevel: PIE: World Init took: (0.002003s)
+[2026.02.06-17.00.13:467][435]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-17.00.13:467][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-17.00.13:467][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-17.00.13:467][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-17.00.13:467][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-17.00.13:467][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-17.00.13:468][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-17.00.13:488][435]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.02.06-17.00.13:488][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-17.00.13:488][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-17.00.13:488][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-17.00.13:488][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.02.06-17.00.13:489][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.02.06-17.00.13:492][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.02.06-17.00.13:492][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.02.06-17.00.13:492][435]LogInit: FAudioDevice initialized with ID 20.
+[2026.02.06-17.00.13:492][435]LogAudio: Display: Audio Device (ID: 20) registered with world 'LVL_Wasteland'.
+[2026.02.06-17.00.13:492][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.06-17.00.13:496][435]LogLoad: Game class is 'BP_StrategyGameMode_C'
+[2026.02.06-17.00.13:503][435]LogWorld: Bringing World /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland.LVL_Wasteland up for play (max tick rate 0) at 2026.02.06-09.00.13
+[2026.02.06-17.00.13:504][435]LogWorld: Bringing up level for play took: 0.008193
+[2026.02.06-17.00.13:504][435]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=780.000 Y=-4502.500 Z=67.500, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2026.02.06-17.00.13:508][435]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.02.06-17.00.13:512][435]PIE: Server logged in
+[2026.02.06-17.00.13:514][435]PIE: Play in editor total start time 0.109 seconds.
+[2026.02.06-17.00.14:130][463]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.02.06-17.00.37:922][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-17.00.37:922][265]LogWorld: BeginTearingDown for /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland
+[2026.02.06-17.00.37:922][265]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.06-17.00.37:923][265]LogWorld: UWorld::CleanupWorld for LVL_Wasteland, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-17.00.37:924][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-17.00.37:931][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-17.00.37:940][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-17.00.37:982][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-17.00.37:982][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.06-17.00.37:982][265]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.02.06-17.00.37:984][265]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.02.06-17.00.37:994][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.06-17.00.38:156][266]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.02.06-17.00.42:547][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.02.06-17.00.43:388][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.06-17.00.43:393][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-17.00.43:455][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Strategy/Blueprints/BP_StrategyPlayerController] ([2] browsable assets)...
+[2026.02.06-17.00.43:456][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Strategy/Blueprints/BP_StrategyPlayerController]
+[2026.02.06-17.00.43:604][483]LogSavePackage: Moving output files for package: /Game/Variant_Strategy/Blueprints/BP_StrategyPlayerController
+[2026.02.06-17.00.43:605][483]LogSavePackage: Moving '../../../../../Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Saved/BP_StrategyPlayerControllerD5F78BD742F1A9B386ECE984272D710A.tmp' to '../../../../../Users/5000328/Documents/GitHub/GameJam-WastelandSurvival/Content/Variant_Strategy/Blueprints/BP_StrategyPlayerController.uasset'
+[2026.02.06-17.00.43:616][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.715 ms (total: 1.98 sec)
+[2026.02.06-17.00.43:655][483]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.06-17.00.43:655][483]LogContentValidation: Enabled validators:
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.06-17.00.43:655][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.06-17.00.43:655][483]AssetCheck: /Game/Variant_Strategy/Blueprints/BP_StrategyPlayerController Validating asset
+[2026.02.06-17.00.43:911][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-17.00.43:918][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-17.00.43:918][495]LogPlayLevel: Creating play world package: /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland
+[2026.02.06-17.00.43:927][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008430s)
+[2026.02.06-17.00.43:927][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Strategy/LVL_Wasteland.LVL_Wasteland to /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland.LVL_Wasteland (0.008475s)
+[2026.02.06-17.00.43:969][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.02.06-17.00.43:970][495]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_Wasteland
+[2026.02.06-17.00.43:972][495]LogPlayLevel: PIE: World Init took: (0.001978s)
+[2026.02.06-17.00.43:973][495]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-17.00.43:973][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-17.00.43:973][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-17.00.43:973][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-17.00.43:973][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-17.00.43:973][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-17.00.43:976][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-17.00.43:996][495]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.02.06-17.00.43:997][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-17.00.43:997][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-17.00.43:997][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-17.00.43:997][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.02.06-17.00.43:997][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.02.06-17.00.43:999][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.02.06-17.00.43:999][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.02.06-17.00.43:999][495]LogInit: FAudioDevice initialized with ID 21.
+[2026.02.06-17.00.43:999][495]LogAudio: Display: Audio Device (ID: 21) registered with world 'LVL_Wasteland'.
+[2026.02.06-17.00.43:999][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.02.06-17.00.44:006][495]LogLoad: Game class is 'BP_StrategyGameMode_C'
+[2026.02.06-17.00.44:014][495]LogWorld: Bringing World /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland.LVL_Wasteland up for play (max tick rate 0) at 2026.02.06-09.00.44
+[2026.02.06-17.00.44:016][495]LogWorld: Bringing up level for play took: 0.008896
+[2026.02.06-17.00.44:016][495]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=780.000 Y=-4502.500 Z=67.500, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2026.02.06-17.00.44:019][495]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.02.06-17.00.44:023][495]PIE: Server logged in
+[2026.02.06-17.00.44:025][495]PIE: Play in editor total start time 0.107 seconds.
+[2026.02.06-17.00.45:013][539]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2026.02.06-17.00.54:582][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-17.00.54:582][ 26]LogWorld: BeginTearingDown for /Game/Variant_Strategy/UEDPIE_0_LVL_Wasteland
+[2026.02.06-17.00.54:582][ 26]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.06-17.00.54:583][ 26]LogWorld: UWorld::CleanupWorld for LVL_Wasteland, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-17.00.54:584][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-17.00.54:634][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-17.00.54:644][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-17.00.54:684][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-17.00.54:685][ 26]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.02.06-17.00.54:685][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.02.06-17.00.54:687][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.02.06-17.00.54:697][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.02.06-17.00.55:124][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.02.06-17.00.55:546][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
